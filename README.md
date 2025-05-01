@@ -47,6 +47,8 @@ I'm always open to collaboration, mentorship opportunities, or just finding a ne
 
 ---
 
+[![THERIZKY](https://github-readme-stats.vercel.app/api?username=THERIZKY)](https://github.com/THERIZKY/)
+
 ### 📫 Reach Me
 - [LinkedIn](https://www.linkedin.com/in/muhammad-rafi-rizky-putra-497106283/)
 - [Discord Server](https://discord.gg/7BNwsjKWFE)
