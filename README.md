@@ -3,9 +3,9 @@
 
 ---
 
-🎓 I'm a 6th-semester Informatics Engineering student with a passion for crafting elegant and scalable web applications.
-🧑‍🏫 By profession, I’m a **coding instructor**, guiding learners to write their first lines of code and beyond. 
-🛠️ By passion, I’m a fullstack tinkerer — always exploring how to make things better, faster, and cleaner.
+🎓 I'm a 6th-semester Informatics Engineering student with a passion for crafting elegant and scalable web applications. <br/>
+🧑‍🏫 By profession, I’m a **coding instructor**, guiding learners to write their first lines of code and beyond. <br/>
+🛠️ By passion, I’m a fullstack tinkerer — always exploring how to make things better, faster, and cleaner. <br/>
 
 ---
 
