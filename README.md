@@ -48,8 +48,9 @@ I'm always open to collaboration, mentorship opportunities, or just finding a ne
 ---
 
 ### 📫 Reach Me
-- [LinkedIn](dmin.academy.timedoor.net/teacher/schedule)
+- [LinkedIn](https://www.linkedin.com/in/muhammad-rafi-rizky-putra-497106283/)
 <!-- - [Portfolio Website](https://yourwebsite.com) (if you have one) -->
+- [Discord Server](https://discord.gg/7BNwsjKWFE)
 - Discord: rizhora
-- Discord Server : https://discord.gg/7BNwsjKWFE
+
 
