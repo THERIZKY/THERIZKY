@@ -48,7 +48,7 @@ I'm always open to collaboration, mentorship opportunities, or just finding a ne
 ---
 
 ### 📫 Reach Me
-- [LinkedIn](https://www.linkedin.com) (replace with yours)
+- [LinkedIn](dmin.academy.timedoor.net/teacher/schedule)
 <!-- - [Portfolio Website](https://yourwebsite.com) (if you have one) -->
 - Discord: rizhora
 - Discord Server : https://discord.gg/7BNwsjKWFE
