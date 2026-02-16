@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hello, World! I'm Rizh
+# 👋 Hello, World! I'm Rafi Rizky
 
 ---
 
